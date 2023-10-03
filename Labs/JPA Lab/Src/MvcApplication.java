@@ -1,4 +1,4 @@
-package exgnosis.mymvc;
+package com.example.MVC;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
